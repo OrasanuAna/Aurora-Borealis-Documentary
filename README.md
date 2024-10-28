@@ -15,7 +15,7 @@ Below are some screenshots of the application to give a preview of its design an
    ![Variations in Light and Colors](https://github.com/OrasanuAna/Aurora-Borealis-Documentary/blob/master/Aurora%20Borealis%20Documentary%20pictures/Variations%20in%20Light%20and%20Colors.jpg)
 
 3. **Optimal Places and Times for Observation**  
-   ![Optimal Places and Times for Observation](https://github.com/OrasanuAna/Aurora-Borealis-Documentary/blob/master/Aurora%20Borealis%20Documentary%20pictures/Aurora%20Borealis%20Light%20and%20Color%20Variations.jpg)
+   ![Optimal Places and Times for Observation](https://github.com/OrasanuAna/Aurora-Borealis-Documentary/blob/master/Aurora%20Borealis%20Documentary%20pictures/Optimal%20Places%20and%20Times%20for%20Observation.jpg)
 
 4. **Conclusion Screen**  
    ![Aurora Borealis Conclusion](https://github.com/OrasanuAna/Aurora-Borealis-Documentary/blob/master/Aurora%20Borealis%20Documentary%20pictures/Aurora%20Borealis%20Conclusion.jpg)
