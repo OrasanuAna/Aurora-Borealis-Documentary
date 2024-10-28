@@ -1,0 +1,144 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: #f5f5f5;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  padding: 2rem 0;
+  background: #333333;
+}
+
+#main-title {
+  font-size: 2.5em;
+  color: #00c6ff;
+}
+
+.section {
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  max-width: 800px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.section h2 {
+  color: #f6b93b;
+  font-size: 1.8em;
+}
+
+.content {
+  font-size: 1.1em;
+  margin-top: 1rem;
+  line-height: 1.7;
+}
+
+a {
+  color: #ff9f43;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #f368e0;
+}
+
+#aurora-image {
+  width: 100%;
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+
+#footer {
+  background-color: #333;
+  color: #f5f5f5;
+  padding: 2rem;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-section {
+  flex: 1;
+  min-width: 200px;
+}
+
+.footer-section h3 {
+  font-size: 1.2em;
+  color: #00c6ff;
+  margin-bottom: 0.5rem;
+}
+
+.footer-section p,
+.footer-section a {
+  color: #f5f5f5;
+  font-size: 1em;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin: 0.5rem 0;
+}
+
+.footer-section a {
+  color: #f368e0;
+  text-decoration: none;
+}
+
+.footer-section a:hover {
+  color: #ff9f43;
+}
+
+.footer-section form {
+  display: flex;
+  align-items: center;
+}
+
+.input-name {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: none;
+  margin-right: 0.5rem;
+}
+
+.submit-button {
+  padding: 0.5rem 1rem;
+  background-color: #1e90ff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: #00bfff;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 1rem;
+  font-size: 0.9em;
+  color: #ccc;
+  border-top: 1px solid #555;
+  margin-top: 2rem;
+}
